@@ -11,7 +11,7 @@ https://tic-x-toe-o-game.netlify.app
 - Have 1 player and 2 players options.
 - Can play with computer [1 player].
 - Can play with your friends [2 player].
-- 'Player X' is a 1st player while 'Player Y' is a 2nd player.
+- 'Player X' is a 1st player while 'Player O' is a 2nd player.
 - Added a score card for both players for a session.
 - Tested in Firefox and Chrome
 
